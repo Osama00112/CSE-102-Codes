@@ -1,0 +1,28 @@
+1. Write a C program to determine the largest and smallest of four numbers. You can take the numbers as input or use variables.
+
+Sample input: 29 76 56 -20
+Sample output: max: 76 min: -20
+
+2. Write a C program that will take three numbers as input which denote the length of three sides of a triangle. The program will output the area of the triangle if it is a valid one. Otherwise, it will write "no triangle possible".
+
+3(a) Write a C program to determine if a character is an alphabet or not.
+3(b) Write a C program to determine if a character is VOWEL or CONSONANT.
+
+4. The marks-grade mapping at a certain university is as follows:
+
+A - 80-100%
+B - 70-79%
+C - 60-69%
+D - 50-59%
+F - 0-50%
+
+Write a C program that will take the grade as input and output the grade percentage. You have to use switch-case for this problem.
+
+5. Electricity bill at a certain power distribution company is computed as follows:
+
+First 50 units: BDT 4 per unit
+Next  30 units: BDT 3 per unit
+Next  20 units: BDT 2 per unit
+Next any units: BDT 1 per unit
+
+Write a C program that will take number of units used this month and calculate the bill in BDT.
